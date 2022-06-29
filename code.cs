@@ -21,7 +21,7 @@ unsigned long last_press;
 
 void setup()
 { 
-  servo.attach(A0); // подключаем servо
+  servo.attach(A0); // подключаем servo
   pinMode(button, OUTPUT); // подключаем кнопку
   pinMode(pin, OUTPUT); // подключаем светодиод
   last_press = millis(); // по идеи, с этой строчкой всё должно работать лучше, но я не пробовал 
