@@ -12,3 +12,7 @@
 ![SCHEME](https://github.com/PreArchi/arduino-box/blob/master/schemes/sweep_bb.png)
 
 ![SCHEME](https://github.com/PreArchi/arduino-box/blob/master/schemes/Arduino-LED1.jpg)
+
+![image](https://user-images.githubusercontent.com/37499431/176938057-c09f4e92-383f-484a-856a-5c0f1ca93995.png)
+
+![image](https://user-images.githubusercontent.com/37499431/176938079-b68c94c2-165a-44b2-b6e2-6b9b32a581c3.png)
